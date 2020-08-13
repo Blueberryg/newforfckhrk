@@ -1,0 +1,11 @@
+body {
+    background-color:black;
+    font-family: 'Play', sans-serif;
+    color:yellowgreen;
+    align:center;
+    font-size: larger;
+}
+.winners {
+    font-size: 30pt;
+    text-align:center;;
+}
